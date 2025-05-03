@@ -1,0 +1,9 @@
+{
+    "files": [
+        "wifern3.py",
+        "form.ui",
+        "Resources/wifern.qrc",
+        "form.py",
+        "wifi.py"
+    ]
+}

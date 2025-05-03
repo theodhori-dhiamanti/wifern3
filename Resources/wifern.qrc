@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="home_tab">
+    <file>Home-icon.png</file>
+  </qresource>
+  <qresource prefix="wifi_tab">
+    <file>WiFi.png</file>
+  </qresource>  
+</RCC>
